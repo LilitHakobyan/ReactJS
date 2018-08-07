@@ -1,0 +1,7 @@
+{ 
+    "openInGitHub.gitHubDomain": "https://github.com/LilitHakobyan",
+    "openInGitHub.requireSelectionForLines": false,   // If enabled, the copied or opened URL won't include line number(s) unless there's an active selection
+    "openInGitHub.useCommitSHAInURL": false,
+    "openInGitHub.providerType": "github", //github, gitlab, bitbucket, ...
+    "openInGitHub.providerProtocol": "https" //https, http. Useful for custom domains that don't support https. Defaults to https.
+  }
